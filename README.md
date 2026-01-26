@@ -43,14 +43,7 @@
 
 ---
 
-### 🏆 Achievements (GitHub Trophies)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Evgeiy23&theme=radical&column=7&margin-w=15&no-bg=true" alt="Trophies" />
-</div>
-
-
----
 
 ### 🌐 Connection
 
