@@ -49,18 +49,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Evgeiy23&theme=radical&column=7&margin-w=15&no-bg=true" alt="Trophies" />
 </div>
 
----
-
-### 📊 System Performance
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evgeiy23&show_icons=true&theme=radical&hide_border=true&title_color=00f2ff&icon_color=ff00ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeiy23&layout=compact&theme=radical&hide_border=true&title_color=00f2ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeiy23&theme=radical&hide_border=true&stroke=00f2ff&ring=ff00ff&fire=ff00ff" alt="Streak Stats" />
-</div>
 
 ---
 
