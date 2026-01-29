@@ -1,60 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:240b36,100:c31432&height=180&section=header&text=Evgeiy23&fontSize=50&fontColor=00f2ff&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0f0c29,50:302b63,100:00f2ff&text=Evgeiy23&fontSize=58&fontColor=00f2ff&animation=twinkling&fontAlignY=38"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&background=1A1A1A00&center=true&vCenter=true&width=500&lines=ML+Engineer;Neural+Network+Architect;Python+%26+C%2B%2B+Developer;Cyberpunk+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F2FF&center=true&vCenter=true&width=650&lines=Mad+ML+Alchemist;RAG+System+Architect;Python+%26+C%2B%2B;Cyberpunk+Engineer;Production+over+Perfection" />
 </p>
 
 <p align="center">
-  <b>« There are two opinions: mine and the wrong one »</b>
+  <b>There are two opinions: mine and the wrong one.</b><br>
+  <sub>coding between coffee and sleep</sub>
 </p>
 
 <p align="center">
-  <a href="#-tech-stack">Stack</a> •
-  <a href="#-performance">Stats</a> •
-  <a href="#-connection">Contact</a>
+  <img src="https://img.shields.io/badge/OS-KALI_LINUX-8A2BE2?style=for-the-badge&labelColor=0f0c29&logo=kali-linux"/>
+  <img src="https://img.shields.io/badge/ENV-DOCKER-00f2ff?style=for-the-badge&labelColor=0f0c29&logo=docker"/>
+  <img src="https://img.shields.io/badge/HARDWARE-MAC-white?style=for-the-badge&labelColor=0f0c29&logo=apple"/>
 </p>
 
 ---
 
-### ⚡ System Profile
+## 🧪 Manifest
 
-- 🤖 **Специализация:** Разработка и оптимизация моделей машинного обучения.
-- 🛠 **Hard Skills:** Глубокое погружение в алгоритмы на Python и высокопроизводительный код на C++.
-- ⚡ **Философия:** Код должен быть либо идеальным, либо переписанным.
-- 🦾 **Стиль:** Cyberpunk & Dark Mode everything.
+I don’t believe in magic.  
+I believe in **mathematics**, **systems**, and **things that actually work**.
+
+- 🧮 **ML is Math:** Proven by implementing complex RAG architectures.
+- 🏭 **Production First:** If a model can't be deployed, it's just a file on a disk.
+- 🛠 **Hybrid Power:** Python for speed, C++ for control.
+- ⚡ **Anti-Fraud Mindset:** Built systems to detect deception in data streams.
+
+<details>
+<summary><strong>⚠️ Enemies of good code</strong></summary>
+
+- Code without PEP8  
+- Slow or bloated models  
+- Abstractions without purpose  
+
+*(yes, including my own mistakes)*
+
+</details>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Hardware & Software Synthesis
 
 <div align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br />
-  <!-- ML/Data -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00F2FF" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,docker,linux,apple,postgres,mongodb&theme=dark" />
+</div>
+
+| Category | Tools |
+| :--- | :--- |
+| **Main Engine** | `Python` (Primary), `C++` (System) |
+| **Neural Engines** | `PyTorch` `Scikit-learn` `TensorFlow` |
+| **Data Alchemy** | `NumPy` `Pandas` `SQL` `OpenCV` |
+| **Architecture** | `RAG Systems` `Vector DBs` `Docker` |
+
+---
+
+## 🧠 Selected Projects
+
+<table align="center" border="0">
+<tr>
+<td width="33%" align="center" valign="top">
+
+🧠 **Anti-Fraud AI** <sub>**Milestone Project**</sub>  
+<sub>NLP classification model designed to fight scammers. My first deep dive into large-scale ML.</sub>  
+<br>
+<a href="https://github.com/Evgeiy23/Creating-an-AI-to-fight-fraudsters">
+  <img src="https://img.shields.io/badge/REPO-OPEN-c31432?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+🤖 **AudioNotes AI** <sub>**Automation**</sub>  
+<sub>Smart bot for processing audio data. Turning noise into structured intelligence.</sub>  
+<br>
+<a href="https://github.com/Evgeiy23/AudioNotes-AI">
+  <img src="https://img.shields.io/badge/REPO-OPEN-00f2ff?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+🎮 **The Edges of House** <sub>**Systems**</sub>  
+<sub>Exploring game systems and architectural boundaries. Where logic meets play.</sub>  
+<br>
+<a href="https://github.com/Evgeiy23/The-edges-of-House">
+  <img src="https://img.shields.io/badge/REPO-OPEN-00f2ff?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Signal
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=Evgeiy23&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=Evgeiy23&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff" />
+  <br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeiy23&theme=tokyonight&background=0f0c29&fire=00f2ff&ring=00f2ff&currStreakLabel=00f2ff" />
 </div>
 
 ---
 
-
-
-### 🌐 Connection
+## 🌐 Connect with the Architect
 
 <div align="center">
-  <a href="https://vk.com/ctrlaltcode" target="_blank">
-    <img src="https://img.shields.io/badge/VKontakte-%234680C2.svg?style=for-the-badge&logo=VK&logoColor=white" alt="VK" />
+  <a href="https://t.me/bug_or_feature_dev">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:dev.bugorfeature@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-<br />
+<p align="center">
+  <sub>Certified Engineer. System Thinker. <b>Status: IDLE (Awaiting complex tasks)</b></sub>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=c31432&height=20&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=18&color=0:302b63,100:00f2ff"/>
 </div>
