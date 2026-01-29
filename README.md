@@ -99,9 +99,6 @@ I believe in **mathematics**, **systems**, and **things that actually work**.
 ## 🌐 Connect with the Architect
 
 <div align="center">
-  <a href="https://t.me/bug_or_feature_dev">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="mailto:dev.bugorfeature@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
