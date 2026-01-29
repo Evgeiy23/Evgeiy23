@@ -99,10 +99,17 @@ I believe in **mathematics**, **systems**, and **things that actually work**.
 ## 📊 Signal
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=Evgeiy23&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=Evgeiy23&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff" />
-  <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeiy23&theme=tokyonight&background=0f0c29&fire=00f2ff&ring=00f2ff&currStreakLabel=00f2ff" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Evgeiy23&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&count_private=true&include_all_commits=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeiy23&theme=tokyonight&background=0f0c29&fire=00f2ff&ring=00f2ff&currStreakLabel=00f2ff" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeiy23&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00f2ff&text_color=ffffff" />
+
 </div>
 
 ---
